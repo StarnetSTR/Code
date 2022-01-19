@@ -1,1 +1,1 @@
-# StarNetSTR BSC
+# StarNetSTR
